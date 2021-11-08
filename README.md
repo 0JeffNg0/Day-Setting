@@ -1,3 +1,2 @@
-# Day-Setting, Month-Setting
-The coding for select Month
+# Day-Setting
 The coding for select Date
